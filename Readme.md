@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainThemeColorizer.cs](./CS/CustomColorizerTest/CustomColorizers/MainThemeColorizer.cs) (VB: [MainThemeColorizer.vb](./VB/CustomColorizerTest/CustomColorizers/MainThemeColorizer.vb))**
+<!-- default file list end -->
 # How to override the default skin image colorization algorithm
 
 
